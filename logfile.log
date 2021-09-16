@@ -1,0 +1,30 @@
+2021-03-24 17:14:32,536 :DEBUG :test_e2e :A debug statement is executed
+2021-03-24 17:14:32,536 :INFO :test_e2e :information statement
+2021-03-24 17:14:32,536 :WARNING :test_e2e :something is in warring mode
+2021-03-24 17:14:32,536 :ERROR :test_e2e :A Major error has happend
+2021-03-24 17:14:32,536 :CRITICAL :test_e2e :critical issues
+2021-03-24 17:14:39,907 :DEBUG :pytest_pyfunc_call :A debug statement is executed
+2021-03-24 17:14:39,908 :INFO :pytest_pyfunc_call :information statement
+2021-03-24 17:14:39,908 :WARNING :pytest_pyfunc_call :something is in warring mode
+2021-03-24 17:14:39,908 :ERROR :pytest_pyfunc_call :A Major error has happend
+2021-03-24 17:14:39,908 :CRITICAL :pytest_pyfunc_call :critical issues
+2021-03-24 17:42:20,381 :DEBUG :pytest_pyfunc_call :A debug statement is executed
+2021-03-24 17:42:20,397 :INFO :pytest_pyfunc_call :information statement
+2021-03-24 17:42:20,397 :WARNING :pytest_pyfunc_call :something is in warring mode
+2021-03-24 17:42:20,397 :ERROR :pytest_pyfunc_call :A Major error has happend
+2021-03-24 17:42:20,397 :CRITICAL :pytest_pyfunc_call :critical issues
+2021-03-24 17:42:29,513 :DEBUG :test_e2e :A debug statement is executed
+2021-03-24 17:42:29,514 :INFO :test_e2e :information statement
+2021-03-24 17:42:29,514 :WARNING :test_e2e :something is in warring mode
+2021-03-24 17:42:29,514 :ERROR :test_e2e :A Major error has happend
+2021-03-24 17:42:29,514 :CRITICAL :test_e2e :critical issues
+2021-03-24 17:42:37,335 :DEBUG :pytest_pyfunc_call :A debug statement is executed
+2021-03-24 17:42:37,335 :DEBUG :pytest_pyfunc_call :A debug statement is executed
+2021-03-24 17:42:37,335 :INFO :pytest_pyfunc_call :information statement
+2021-03-24 17:42:37,335 :INFO :pytest_pyfunc_call :information statement
+2021-03-24 17:42:37,336 :WARNING :pytest_pyfunc_call :something is in warring mode
+2021-03-24 17:42:37,336 :WARNING :pytest_pyfunc_call :something is in warring mode
+2021-03-24 17:42:37,336 :ERROR :pytest_pyfunc_call :A Major error has happend
+2021-03-24 17:42:37,336 :ERROR :pytest_pyfunc_call :A Major error has happend
+2021-03-24 17:42:37,336 :CRITICAL :pytest_pyfunc_call :critical issues
+2021-03-24 17:42:37,336 :CRITICAL :pytest_pyfunc_call :critical issues
